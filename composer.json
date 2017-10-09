@@ -14,5 +14,10 @@
     "require": {
     },
     "require-dev": {
-}
+},
+     "autoload": {
+        "psr-4": {
+            "Itresources4u\\Acl\\": "src/"
+        }
+    }
 }
