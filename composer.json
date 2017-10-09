@@ -9,7 +9,7 @@
             "email": "im.moktar@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*"
